@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Main Programming Languages
+- <img src="" width="40px"> Python
+- C#
+- Java
+- React
+- NodeJS
+
 - 🔭 I’m currently working on:
   - A Deep Learning Model that will be able to predict whether or not a tornado will occur the next day and relay that prediction to the user via generated speech leveraging a TTS Model.
   - Chat Application that enables the user to deliver messages in real time, make audio phone calls that allows for voice conversion, make video calls, and upload an API Key from ChatGPT and leverage their LLM capabilities via text (can produce output with both audio and text).
