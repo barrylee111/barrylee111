@@ -1,11 +1,4 @@
-### Hi there 👋
-
-## Main Programming Languages
-- <img src="" width="40px"> Python
-- C#
-- Java
-- React
-- NodeJS
+## Overview
 
 - 🔭 I’m currently working on:
   - A Deep Learning Model that will be able to predict whether or not a tornado will occur the next day and relay that prediction to the user via generated speech leveraging a TTS Model.
@@ -15,3 +8,19 @@
 - ⚡ Fun fact: I'm also an acupuncturist, herbologist, martial artist, and personal trainer.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: barrylee115@gmail.com
+
+## Main Programming Languages
+<div>
+  <img src="https://github.com/barrylee111/barrylee111/blob/main/Logos/python-logo.png" alt="Python" width="85px">  
+  <img src="https://github.com/barrylee111/barrylee111/blob/main/Logos/csharp-logo.png" alt="C#" width="55px">
+  <img src="https://github.com/barrylee111/barrylee111/blob/main/Logos/java-logo.png" alt="Java" width="75px">
+  <img src="https://github.com/barrylee111/barrylee111/blob/main/Logos/react-logo.webp" alt="React" width="65px">
+  <img src="https://github.com/barrylee111/barrylee111/blob/main/Logos/nodejs-logo.png" alt="NodeJS" width="65px">
+</div>
+
+## Interests
+- AI, Generative AI, Machine Learning, Deep Learning, MLOps, Algorithms, Optimiz
+- Full Stack Development, DevOps
+- Playing music, building and rehabbing guitars and basses, electronics, amplification
+- Martial Arts, Acupuncture, Herbs, Athletics/Human Performance
+- Business, finance, metrics, growth, marketing
