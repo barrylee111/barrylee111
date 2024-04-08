@@ -21,7 +21,7 @@
 </div>
 
 ## Interests
-- AI, Generative AI, Machine Learning, Deep Learning, MLOps, Algorithms, Optimiz
+- AI, Generative AI, Machine Learning, Deep Learning, MLOps, Algorithms, Optimization
 - Full Stack Development, DevOps
 - Playing music, building and rehabbing guitars and basses, electronics, amplification
 - Martial Arts, Acupuncture, Herbs, Athletics/Human Performance
